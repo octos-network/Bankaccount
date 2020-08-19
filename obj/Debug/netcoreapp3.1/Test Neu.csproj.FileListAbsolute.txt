@@ -10,3 +10,15 @@
 /Users/ConradBe/GitHub/hello-world/Test Neu/obj/Debug/netcoreapp3.1/Test Neu.dll
 /Users/ConradBe/GitHub/hello-world/Test Neu/obj/Debug/netcoreapp3.1/Test Neu.pdb
 /Users/ConradBe/GitHub/hello-world/Test Neu/obj/Debug/netcoreapp3.1/Test Neu.genruntimeconfig.cache
+/Users/ConradBe/GitHub/Test Neu/bin/Debug/netcoreapp3.1/Test Neu.deps.json
+/Users/ConradBe/GitHub/Test Neu/bin/Debug/netcoreapp3.1/Test Neu.runtimeconfig.json
+/Users/ConradBe/GitHub/Test Neu/bin/Debug/netcoreapp3.1/Test Neu.runtimeconfig.dev.json
+/Users/ConradBe/GitHub/Test Neu/bin/Debug/netcoreapp3.1/Test Neu.dll
+/Users/ConradBe/GitHub/Test Neu/bin/Debug/netcoreapp3.1/Test Neu.pdb
+/Users/ConradBe/GitHub/Test Neu/obj/Debug/netcoreapp3.1/Test Neu.csprojAssemblyReference.cache
+/Users/ConradBe/GitHub/Test Neu/obj/Debug/netcoreapp3.1/Test Neu.AssemblyInfoInputs.cache
+/Users/ConradBe/GitHub/Test Neu/obj/Debug/netcoreapp3.1/Test Neu.AssemblyInfo.cs
+/Users/ConradBe/GitHub/Test Neu/obj/Debug/netcoreapp3.1/Test Neu.csproj.CoreCompileInputs.cache
+/Users/ConradBe/GitHub/Test Neu/obj/Debug/netcoreapp3.1/Test Neu.dll
+/Users/ConradBe/GitHub/Test Neu/obj/Debug/netcoreapp3.1/Test Neu.pdb
+/Users/ConradBe/GitHub/Test Neu/obj/Debug/netcoreapp3.1/Test Neu.genruntimeconfig.cache
