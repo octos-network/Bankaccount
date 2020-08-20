@@ -1,0 +1,12 @@
+/Users/ConradBe/GitHub/Test Neu/TestNeu2/bin/Debug/netcoreapp3.1/TestNeu2.deps.json
+/Users/ConradBe/GitHub/Test Neu/TestNeu2/bin/Debug/netcoreapp3.1/TestNeu2.runtimeconfig.json
+/Users/ConradBe/GitHub/Test Neu/TestNeu2/bin/Debug/netcoreapp3.1/TestNeu2.runtimeconfig.dev.json
+/Users/ConradBe/GitHub/Test Neu/TestNeu2/bin/Debug/netcoreapp3.1/TestNeu2.dll
+/Users/ConradBe/GitHub/Test Neu/TestNeu2/bin/Debug/netcoreapp3.1/TestNeu2.pdb
+/Users/ConradBe/GitHub/Test Neu/TestNeu2/obj/Debug/netcoreapp3.1/TestNeu2.csprojAssemblyReference.cache
+/Users/ConradBe/GitHub/Test Neu/TestNeu2/obj/Debug/netcoreapp3.1/TestNeu2.AssemblyInfoInputs.cache
+/Users/ConradBe/GitHub/Test Neu/TestNeu2/obj/Debug/netcoreapp3.1/TestNeu2.AssemblyInfo.cs
+/Users/ConradBe/GitHub/Test Neu/TestNeu2/obj/Debug/netcoreapp3.1/TestNeu2.csproj.CoreCompileInputs.cache
+/Users/ConradBe/GitHub/Test Neu/TestNeu2/obj/Debug/netcoreapp3.1/TestNeu2.dll
+/Users/ConradBe/GitHub/Test Neu/TestNeu2/obj/Debug/netcoreapp3.1/TestNeu2.pdb
+/Users/ConradBe/GitHub/Test Neu/TestNeu2/obj/Debug/netcoreapp3.1/TestNeu2.genruntimeconfig.cache
