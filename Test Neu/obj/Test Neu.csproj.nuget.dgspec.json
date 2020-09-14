@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ConradBe/GitHub/Test Neu/Test Neu.csproj": {}
+    "/Users/ConradBe/GitHub/Test Neu/Test Neu/Test Neu.csproj": {}
   },
   "projects": {
-    "/Users/ConradBe/GitHub/Test Neu/Test Neu.csproj": {
+    "/Users/ConradBe/GitHub/Test Neu/Test Neu/Test Neu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ConradBe/GitHub/Test Neu/Test Neu.csproj",
+        "projectUniqueName": "/Users/ConradBe/GitHub/Test Neu/Test Neu/Test Neu.csproj",
         "projectName": "Test Neu",
-        "projectPath": "/Users/ConradBe/GitHub/Test Neu/Test Neu.csproj",
+        "projectPath": "/Users/ConradBe/GitHub/Test Neu/Test Neu/Test Neu.csproj",
         "packagesPath": "/Users/ConradBe/.nuget/packages/",
-        "outputPath": "/Users/ConradBe/GitHub/Test Neu/obj/",
+        "outputPath": "/Users/ConradBe/GitHub/Test Neu/Test Neu/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ConradBe/.nuget/NuGet/NuGet.Config"

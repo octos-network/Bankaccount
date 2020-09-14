@@ -1,28 +1,27 @@
 ﻿using System;
-using System.Collections.Generic;
 
-namespace Test_Neu
+namespace TestNeu 
 {
-    class Program
+    class Program 
     {
         static void Main(string[] args) 
         {
-            var fibonacciNumbers = new List<int> {1, 1};
-
-            while (fibonacciNumbers.Count <= 20)
-            {
-                var previous = fibonacciNumbers[fibonacciNumbers.Count - 1];
-                var previous2 = fibonacciNumbers[fibonacciNumbers.Count - 2];
-
-                fibonacciNumbers.Add(previous + previous2);
-            }
-
-            foreach(var item in fibonacciNumbers)
-                Console.WriteLine(item);
+            MeetAlien();   
             
+            // wait before closing
             Console.ReadKey();
+        }    
+
+        static void MeetAlien() 
+        {
+            Random numberGen = new Random();
+
+            string name = "XI-" + numberGen.Next(10, 9999);
+            int age = numberGen.Next(10, 500);
+
+            Console.WriteLine("Hi, I'm " + name);
+            Console.WriteLine("I'm " + age + " years old.");
+            Console.WriteLine("Oh and I'm an alien.");
         }
     }
-
-    
 }
